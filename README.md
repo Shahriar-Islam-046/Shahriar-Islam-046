@@ -16,10 +16,10 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 </a>
 
 <a href="https://instagram.com/[yourprofile](https://www.instagram.com/shahriar_art.png/)">
-<img src="https://img.shields.io/badge/ingtagram-orange?style=for-the-badge&logo=instagram">
+<img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram">
 </a>
 
 <a href="mailto:shahriar.cse046@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email">
 </a>
 </p>
