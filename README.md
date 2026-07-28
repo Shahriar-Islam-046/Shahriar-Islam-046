@@ -5,7 +5,7 @@ CSE Student • UI/UX Designer • Frontend Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+StudentUI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+Student;UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
 </p>
 
 <p>
@@ -29,17 +29,29 @@ I'm a Computer Science student passionate about UI/UX Design, Frontend Developme
 
 - 🎓 Final Year CSE Student
 - 🎨 Passionate UI/UX Designer
-- 🌱 Currently learning Laravel, Python
+- 🌱 Currently learning Laravel, Python, UI/UX Design
 - 💻 Building Smart Krishi Sohayak Platform
 - 📍 Rajshahi, Bangladesh
 
+
 ```javascript
 const shahriar = {
-    role: "UI/UX Designer",
-    learning: ["Laravel", "React", "Python"],
-    currentlyBuilding: "Smart Krishi Sohayak Website",
-    hobbies: ["Design", "Coding", "Video Editing"]
-};
+
+    education: "B.Sc. in Computer Science & Engineering",
+
+    role: "UI/UX Designer & Frontend Developer",
+
+    currentlyLearning: ["Figma", "Laravel", "Python", "React"],
+
+    currentlyBuilding: "Smart Krishi Sohayak - AI Farming Platform",
+
+    interests: [
+        "UI/UX Design",
+        "Web Development",
+        "Artificial Intelligence",
+        "Video Editing"
+    ],
+}
 ```
 
 ## 💻 Tech Stack
