@@ -1,8 +1,6 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=SHAHRIAR&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Hi 👋, I'm Shahriar Islam&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
-
-<h1 align="center">Hi 👋, I'm Shahriar Islam</h1>
 
 <h3 align="center">
 CSE Student • UI/UX Designer • Frontend Developer 
