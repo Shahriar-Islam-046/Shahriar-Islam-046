@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shahriar Islam</h1>
 
 <h3 align="center">
-UI/UX Designer • Frontend Developer • CSE Student
+CSE Student • UI/UX Designer • Frontend Developer 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+StudentUI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
 </p>
 
 <p>
