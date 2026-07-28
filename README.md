@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=Hi%2C%20I%27m%20Shahriar%20Islam&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=300&section=header&text=Hi%2C%20I%27m%20Shahriar%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=22"
   />
 </p>
 
