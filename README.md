@@ -1,11 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=300&section=header&text=Hi%2C%20I%27m%20Shahriar%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=22"/>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&color=3B82F6&center=true&vCenter=true&width=750&lines=UI%2FUX+Designer;Full+Stack+Developer;Laravel+Developer;Python+Learner;Always+Building+Something+Awesome"/>
-</p>
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=300&section=header&text=Hi%2C%20I%27m%20Shahriar%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Frontend%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=22"/>
 
 </p>
 <p align="center">
@@ -56,13 +52,16 @@ const shahriar = {
 <img src="https://skillicons.dev/icons?i=figma,illustrator,html,css,js,php,laravel,mysql,python,cpp,java,git,github,vscode,linux"/>
 </p>
 
+
+
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+Student;UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&color=3B82F6&center=true&vCenter=true&width=750&lines=UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Building+Something+Awesome"/>
 </p>
+
+
 
 <h2 align="center">🤝 Let's Build Something Amazing Together</h2>
 <p align="center">
 I'm always open to discussing new ideas, exciting projects, or collaboration opportunities.
 </p>
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
