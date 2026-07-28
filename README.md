@@ -11,23 +11,14 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/[yourprofile](https://www.linkedin.com/in/mdshahriarislam046/)">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-</a>
-
 <a href="https://instagram.com/[yourprofile](https://www.instagram.com/shahriar_art.png/)">
-<img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram">
-</a>
-
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://www.facebook.com/ShahriarIslam.Rafi.03/">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+<a href="https://instagram.com/[yourprofile](https://www.instagram.com/shahriar_art.png/)">
+<img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram"></a>
 <a href="mailto:shahriar.cse046@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email">
-</a>
-</p>
-
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>https://www.linkedin.com/in/mdshahriarislam046/</a>
-<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
 </p>
 
 ## 👨‍💻 About Me
