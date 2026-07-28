@@ -23,3 +23,21 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Email">
 </a>
 </p>
+
+## 👨‍💻 About Me
+
+I'm a Computer Science student passionate about UI/UX Design, Frontend Development, AI and Web Applications.
+
+- 🌱 Currently learning Laravel
+- 💻 Working on Smart Krishi
+- 🎨 UI/UX Designer
+- 📍 Bangladesh
+
+```javascript
+const shahriar = {
+    role: "UI/UX Designer",
+    learning: ["Laravel", "React", "Python"],
+    currentlyBuilding: "Smart Krishi Sohayak Website",
+    hobbies: ["Design", "Coding", "Video Editing"]
+};
+```
