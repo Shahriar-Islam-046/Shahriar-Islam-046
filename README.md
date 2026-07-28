@@ -57,13 +57,11 @@ const shahriar = {
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Islam-046&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Computer+Science+Student;Welcome+to+my+GitHub!" />
 </p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+
