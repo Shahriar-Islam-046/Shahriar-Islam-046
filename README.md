@@ -29,7 +29,7 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 I'm a Computer Science student passionate about UI/UX Design, Frontend Development, AI and Web Applications.
 
 - 🌱 Currently learning Laravel
-- 💻 Working on Smart Krishi
+- 💻 Working on Smart Krishi Sohayak Website
 - 🎨 UI/UX Designer
 - 📍 Bangladesh
 
@@ -41,3 +41,29 @@ const shahriar = {
     hobbies: ["Design", "Coding", "Video Editing"]
 };
 ```
+
+## 💻 Tech Stack
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+</p>
