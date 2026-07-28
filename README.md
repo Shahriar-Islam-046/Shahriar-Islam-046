@@ -8,10 +8,6 @@ CSE Student • UI/UX Designer • Frontend Developer
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+Student;UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
 </p>
 
-<p>
-As a dedicated Computer Science and Engineering student, I am passionate about leveraging technology to solve real-world problems. With a solid foundation in Programming, UI/UX Design and Web Development, I am eager to contribute to innovative projects and collaborate with like-minded professionals. My interests include UI/UX Designing and Frontend Development. Let's connect and explore how we can drive technology forward together!
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/mdshahriarislam046/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
@@ -25,7 +21,9 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student passionate about UI/UX Design, Frontend Development, AI and Web Applications.
+<p>
+As a dedicated Computer Science and Engineering student, I am passionate about leveraging technology to solve real-world problems. With a solid foundation in Programming, UI/UX Design and Web Development, I am eager to contribute to innovative projects and collaborate with like-minded professionals. My interests include UI/UX Designing and Frontend Development. Let's connect and explore how we can drive technology forward together!
+</p>
 
 - 🎓 Final Year CSE Student
 - 🎨 Passionate UI/UX Designer
