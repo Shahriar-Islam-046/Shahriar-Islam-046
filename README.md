@@ -65,8 +65,9 @@ const shahriar = {
 </p>
 
 
-<h4 align="center">
-Let's Connect 🤝
-</h4>
+<h2 align="center">🤝 Let's Build Something Amazing Together</h2>
+<p align="center">
+I'm always open to discussing new ideas, exciting projects, or collaboration opportunities.
+</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
