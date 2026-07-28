@@ -1,3 +1,7 @@
+<p align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,100:2563eb&text=SHAHRIAR&fontAlign=50&fontAlignY=38&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+</p>
+
 <h1 align="center">Hi 👋, I'm Shahriar Islam</h1>
 
 <h3 align="center">
@@ -64,8 +68,36 @@ const shahriar = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,illustrator"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp"/>
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux"/>
+
+</p>
+
+
 <h3 align="center">
 Let's Connect 🤝
 </h3>
+
+🐍
+□□□□□□□□□□□□
+■■■■■■■■■■■■
+□□□□□□□□□□□□
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
