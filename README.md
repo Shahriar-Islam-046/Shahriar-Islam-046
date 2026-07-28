@@ -4,11 +4,6 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=300&section=header&text=Hi%2C%20I%27m%20Shahriar%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=UI%2FUX%20Designer%20%7C%20Full%20Stack%20Developer%20%7C%20CSE%20Student&descAlignY=58&descSize=22"
   />
 </p>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+Student;UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
-</p>
-
 <p align="center">
 <a href="https://www.linkedin.com/in/mdshahriarislam046/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
@@ -21,7 +16,6 @@
 </p>
 
 ## 👨‍💻 About Me
-
 <p>
 As a dedicated Computer Science and Engineering student, I am passionate about leveraging technology to solve real-world problems. With a solid foundation in Programming, UI/UX Design and Web Development, I am eager to contribute to innovative projects and collaborate with like-minded professionals. My interests include UI/UX Designing and Frontend Development. Let's connect and explore how we can drive technology forward together!
 </p>
@@ -31,7 +25,6 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 - 🌱 Currently learning Laravel, Python, UI/UX Design
 - 💻 Building Smart Krishi Sohayak Platform
 - 📍 Rajshahi, Bangladesh
-
 
 ```javascript
 const shahriar = {
@@ -55,11 +48,13 @@ const shahriar = {
 ```
 
 ## 💻 Tech Stack
-
 <p align="center">
 <img src="https://skillicons.dev/icons?i=figma,illustrator,html,css,js,php,laravel,mysql,python,cpp,java,git,github,vscode,linux"/>
 </p>
 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=CSE+Student;UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
+</p>
 
 <h2 align="center">🤝 Let's Build Something Amazing Together</h2>
 <p align="center">
