@@ -5,12 +5,8 @@ UI/UX Designer • Frontend Developer • CSE Student
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Laravel+Developer;Python+Learner;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Learning+New+Things" />
 </p>
-
-<h3>
-UI/UX Designer | CSE Student | Frontend Developer
-</h3>
 
 <p>
 As a dedicated Computer Science and Engineering student, I am passionate about leveraging technology to solve real-world problems. With a solid foundation in Programming, UI/UX Design and Web Development, I am eager to contribute to innovative projects and collaborate with like-minded professionals. My interests include UI/UX Designing and Frontend Development. Let's connect and explore how we can drive technology forward together!
@@ -31,10 +27,11 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 
 I'm a Computer Science student passionate about UI/UX Design, Frontend Development, AI and Web Applications.
 
-- 🌱 Currently learning Laravel
-- 💻 Working on Smart Krishi Sohayak Website
-- 🎨 UI/UX Designer
-- 📍 Bangladesh
+- 🎓 Final Year CSE Student
+- 🎨 Passionate UI/UX Designer
+- 🌱 Currently learning Laravel, Python
+- 💻 Building Smart Krishi Sohayak Platform
+- 📍 Rajshahi, Bangladesh
 
 ```javascript
 const shahriar = {
@@ -56,12 +53,15 @@ const shahriar = {
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Shahriar-Islam-046&show_icons=true&theme=tokyonight"/>
-</p>
+<h3 align="center">
+Let's Connect 🤝
+</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&color=58A6FF&center=true&vCenter=true&width=700&lines=UI%2FUX+Designer;Frontend+Developer;Computer+Science+Student;Welcome+to+my+GitHub!" />
-</p>
 
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+
+<a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/></a>
+
+</p>
 
