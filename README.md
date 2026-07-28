@@ -16,7 +16,7 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 </a>
 
 <a href="https://instagram.com/[yourprofile](https://www.instagram.com/shahriar_art.png/)">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
+<img src="https://img.shields.io/badge/ingtagram-black?style=for-the-badge&logo=instagram">
 </a>
 
 <a href="mailto:shahriar.cse046@gmail.com">
