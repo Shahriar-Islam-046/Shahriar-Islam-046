@@ -61,12 +61,12 @@ const shahriar = {
 ## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=figma,xd,illustrator,html,css,js,php,laravel,mysql,python,c,cpp,java,git,github,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=figma,illustrator,html,css,js,php,laravel,mysql,python,cpp,java,git,github,vscode,linux"/>
 </p>
 
 
-<h3 align="center">
+<h4 align="center">
 Let's Connect 🤝
-</h3>
+</h4>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
