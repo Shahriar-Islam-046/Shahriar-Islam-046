@@ -24,6 +24,12 @@ As a dedicated Computer Science and Engineering student, I am passionate about l
 </a>
 </p>
 
+<p align="center">
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>https://www.linkedin.com/in/mdshahriarislam046/</a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+</p>
+
 ## 👨‍💻 About Me
 
 I'm a Computer Science student passionate about UI/UX Design, Frontend Development, AI and Web Applications.
@@ -51,15 +57,6 @@ const shahriar = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-<p align="left">
-  <img src="badge1" />
-  <img src="badge2" />
-  <img src="badge3" />
-  <br><br>
-  <img src="badge4" />
-  <img src="badge5" />
-  <img src="badge6" />
 </p>
 
 <p align="center">
