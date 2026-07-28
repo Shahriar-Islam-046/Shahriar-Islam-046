@@ -43,7 +43,8 @@ const shahriar = {
 
     currentlyBuilding: "Smart Krishi Sohayak - AI Farming Platform",
 
-    interests: [
+    interests:
+    [
         "UI/UX Design",
         "Web Development",
         "Artificial Intelligence",
@@ -67,3 +68,4 @@ const shahriar = {
 Let's Connect 🤝
 </h3>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0f172a,100:2563eb"/>
