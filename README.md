@@ -17,7 +17,7 @@
 <a href="https://www.instagram.com/shahriar_art.png/">
 <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram"></a>
 <a href="mailto:shahriar.cse046@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/></a>
+<img src="https://img.shields.io/badge/Gmail-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ## 👨‍💻 About Me
