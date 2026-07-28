@@ -1,8 +1,8 @@
-<h1 align="center">
-Hi 👋, I'm Shahriar
+<h1>
+Hi 👋, I'm Shahriar Islam
 </h1>
 
-<h3 align="center">
+<h3>
 UI/UX Designer | CSE Student | Frontend Developer
 </h3>
 
