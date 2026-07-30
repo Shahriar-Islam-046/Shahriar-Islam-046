@@ -55,7 +55,7 @@ const shahriar = {
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&color=3B82F6&center=true&vCenter=true&width=750&lines=UI%2FUX+Designer;Frontend+Developer;Python+Learner;Always+Building+Something+Awesome"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=27&duration=3500&color=3B82F6&center=true&vCenter=true&width=750&lines=UI+Designer;UX+Researcher;Frontend+Developer;Python+Learner;Always+Building+Something+Awesome"/>
 </p>
 
 
